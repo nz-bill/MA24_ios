@@ -1,9 +1,4 @@
-//
-//  SceneDelegate.swift
-//  urlsessionEx
-//
-//  Created by Bill Palmestedt on 2025-03-27.
-//
+
 
 import UIKit
 
